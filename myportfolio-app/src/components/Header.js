@@ -1,5 +1,9 @@
 export default function Header(){
     return(
-        <h2>hello from header</h2>
+        <div className='header-wrapper'>
+          <div className='main-info'>
+           <h1>hellidrtgdfgfdgfd</h1>
+          </div>
+        </div>
     )
 }
